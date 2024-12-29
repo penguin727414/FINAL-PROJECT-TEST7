@@ -1,3 +1,4 @@
 ﻿  FINAL_PROJECT_TEST7.c
 C:\Users\user\OneDrive\Desktop\FINAL-PROJECT-TEST7\FINAL_PROJECT_TEST7\FINAL_PROJECT_TEST7\FINAL_PROJECT_TEST7.c(12,11): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+  LINK : 最後的累加連結找不到或未建置 C:\Users\user\OneDrive\Desktop\FINAL-PROJECT-TEST7\FINAL_PROJECT_TEST7\x64\Debug\FINAL_PROJECT_TEST7.exe，正在執行完整連結
   FINAL_PROJECT_TEST7.vcxproj -> C:\Users\user\OneDrive\Desktop\FINAL-PROJECT-TEST7\FINAL_PROJECT_TEST7\x64\Debug\FINAL_PROJECT_TEST7.exe

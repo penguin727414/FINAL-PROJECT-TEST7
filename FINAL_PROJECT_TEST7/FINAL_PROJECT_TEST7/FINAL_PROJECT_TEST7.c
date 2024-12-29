@@ -68,7 +68,6 @@ void generate_numbers(int secret[]) {
 
                 generate_numbers(secret);
                 printf("歡迎來到數字猜謎遊戲！\n");
-                // 若要顯示答案以便測試，請取消下一行註解
                 // printf("秘密數字: %d %d %d\n", secret[0], secret[1], secret[2]);
 
                 while (1) {
